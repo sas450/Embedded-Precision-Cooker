@@ -1,13 +1,14 @@
 # SousVide Project
 
+What is Sous Vide Cooking and Why?
+
+https://www.seriouseats.com/2015/06/food-lab-complete-guide-to-sous-vide-steak.html
+
 Step 1. 
 Build the Diode Temperature Sensor
 
 Step 2. 
 Turn a switch on and off using the arduino 
-
-Step 3. 
-Build an Android app for user input
 
 
 Step 1 in more Detail
