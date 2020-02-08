@@ -1,6 +1,6 @@
-# SousVide Project
+# Embedded Precision Cooker
 
-What is Sous Vide Cooking and Why?
+Precise cooking is achieved via cooking food in a temperature controlled waterbath. 
 
 https://www.seriouseats.com/2015/06/food-lab-complete-guide-to-sous-vide-steak.html
 
